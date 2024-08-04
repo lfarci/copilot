@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5w/lVbCRYw=",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Repos\\copilot\\microsoft-learn\\accelerate-app-development-using-github-copilot\\develop-code-features-using-github-copilot-tools\\create-code-copilot-chat\\APL2007M3SalesReport-InlineChat\\APL2007M3SalesReport-InlineChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.4\\microsoft.netcore.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.4\\microsoft.windowsdesktop.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.4\\microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.4\\microsoft.netcore.app.host.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
