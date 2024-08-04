@@ -1,0 +1,15 @@
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/bin/Debug/net8.0/Prime
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/bin/Debug/net8.0/Prime.deps.json
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/bin/Debug/net8.0/Prime.runtimeconfig.json
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/bin/Debug/net8.0/Prime.dll
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/bin/Debug/net8.0/Prime.pdb
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.AssemblyInfoInputs.cache
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.AssemblyInfo.cs
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.csproj.CoreCompileInputs.cache
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.sourcelink.json
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.dll
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/refint/Prime.dll
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.pdb
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/Prime.genruntimeconfig.cache
+/workspaces/copilot/microsoft-learn/accelerate-app-development-using-github-copilot/get-started-github-copilot/Prime/obj/Debug/net8.0/ref/Prime.dll
